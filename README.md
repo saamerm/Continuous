@@ -12,7 +12,7 @@ Install the **Continuous Coding** add-in for Xamarin Studio in the **Add-in Mana
 
 You will then be able to select the **Continuous Coding** add-in from the **IDE extensions** category.
 
-<img src="https://raw.githubusercontent.com/praeclarum/Continuous/master/Documentation/AddAddinRepo.png" width="420px"/>
+<img src="https://raw.githubusercontent.com/saamerm/Continuous/master/Documentation/AddAddinRepo.png" width="420px"/>
 
 ## Per-app Installation
 
